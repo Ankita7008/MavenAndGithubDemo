@@ -6,7 +6,7 @@ public class CreateProductTest {
 	@Test
 
 	public void createProduct() {
-		System.out.println("Product created...");
+		System.out.println("Product is create successfully.");
 	}
 
 }
