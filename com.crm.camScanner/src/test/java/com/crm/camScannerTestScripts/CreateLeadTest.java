@@ -8,4 +8,8 @@ public class CreateLeadTest {
 	public void createLead() {
 		System.out.println("Lead created...");
 	}
+	
+	public void updateLead() {
+		System.out.println("Lead updated");
+	}
 }
