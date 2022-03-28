@@ -5,11 +5,12 @@ import org.testng.annotations.Test;
 public class CreateLeadTest {
 	@Test
 
-	public void createLead() {
+	public void createLeads() {
 		System.out.println("Lead created...");
 	}
 	
-	public void updateLead() {
+	@Test
+	public void updateLeads() {
 		System.out.println("Lead updated");
 	}
 }

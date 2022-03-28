@@ -15,4 +15,4 @@ public class ParamertersTest {
 }
 
 //execution= run As ==> run configurations ==> select project & className
-//Arguments page = -Dbrowser=cheome -Durl=http://localhost:8888 -Dusername=admin -Dpassword=root
+//Arguments page = -Dbrowser=chrome -Durl=http://localhost:8888 -Dusername=admin -Dpassword=root
